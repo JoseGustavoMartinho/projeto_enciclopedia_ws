@@ -1,1 +1,1 @@
-# projeto_enciclop-dia_ws
+# projeto_enciclopedia_ws
